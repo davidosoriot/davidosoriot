@@ -19,8 +19,10 @@
   </tr>
   <tr>
    <td>
-     <h2> 🛠 &nbsp;Tech Stack</h2>
-  
+     <h2> 🛠 &nbsp;Some LLM projects</h2>
+     <a href="https://github.com/davidosoriot/langchain-llm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidosoriot&repo=langchain-llm&theme=great-gatsby" />
+     </a>
    </td>
    <td>
     <div align="center">
