@@ -13,7 +13,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
+        <img height="360em" src=""/>
      </p>
     </td>
   </tr>
@@ -26,8 +26,8 @@
     <div align="center">
       <h2><b>How to Reach Me</b></h2>
       <br>
-      <p>Please don't hesitate to contact me 
-        <br>if you need further information or help.
+      <p>In the search of create something important 
+        <br>
       </p>
       <br>
       <a href="https://www.instagram.com/davidosoriot4/" target="_blank">
