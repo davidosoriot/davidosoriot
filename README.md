@@ -13,7 +13,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://raw.githubusercontent.com/davidosoriot/davidosoriot/main/assets/.jpg"/>
+        <img height="360em" src="https://raw.githubusercontent.com/davidosoriot/davidosoriot/main/assets/IMG_4155.jpg"/>
      </p>
     </td>
   </tr>
