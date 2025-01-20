@@ -41,6 +41,7 @@
       <a href="https://www.linkedin.com/in/david-osorio-a008b4340/" >
       <img align="center" alt="David Osorio | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
+      <a href="https://wa.me/573014812224"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
       <br>
     </div>
    </td>
