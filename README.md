@@ -38,7 +38,7 @@
       <a href="mailto:soydaosta@gmail.com" >
       <img align="center" alt="David Osorio | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in//" >
+      <a href="https://www.linkedin.com/in/david-osorio-a008b4340/" >
       <img align="center" alt="David Osorio | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
       <br>
