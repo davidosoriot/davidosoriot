@@ -32,8 +32,8 @@
         <br>
       </p>
       <br>
-      <a href="https://www.instagram.com/davidosoriot4/" target="_blank">
-      <img align="center" alt="davidosoriot4 | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      <a href="https://www.instagram.com/davidosoriot_/" target="_blank">
+      <img align="center" alt="davidosoriot_ | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
       </a> &nbsp;&nbsp;
       <a href="mailto:soydaosta@gmail.com" >
       <img align="center" alt="David Osorio | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
