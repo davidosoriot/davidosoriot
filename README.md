@@ -6,7 +6,7 @@
         <li>🎓 &nbsp; AI projects developer in python with langchain & LLM <a href="https://www.udemy.com/">UT</a></li>
         <li>🎓 &nbsp; Machine Learning Deep Learning <a href="https://www.udemy.com/">UT</a></li>
         <li>📚 &nbsp; Portfolio <a href="https://davidosorioportfolio.netlify.app/">UT</a></li>
-        <li>📚 &nbsp; Studying software engineering in eafit <a href="https://www.eafit.edu.co/">UT</a></li>
+        <li>📚 &nbsp; Studying systems engineering in eafit <a href="https://www.eafit.edu.co/">UT</a></li>
         <li>👑 &nbsp; Python, PyTorch, Langchain & LLM, java, mySQL </li>
         <li>🤔 &nbsp; Interested in AI projects and automation</li>
        </ul>
