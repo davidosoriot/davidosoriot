@@ -4,8 +4,10 @@
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
         <li>🎓 &nbsp; AI projects developer in python with langchain & LLM <a href="https://www.udemy.com/">UT</a></li>
+        <li>🎓 &nbsp; Machine Learning Deep Learning <a href="https://www.udemy.com/">UT</a></li>
+        <li>📚 &nbsp; Portfolio <a href="https://davidosorioportfolio.netlify.app/">UT</a></li>
         <li>📚 &nbsp; Studying software engineering in eafit <a href="https://www.eafit.edu.co/">UT</a></li>
-        <li>👑 &nbsp; Python, Langchain & LLM, java, mySQL </li>
+        <li>👑 &nbsp; Python, PyTorch, Langchain & LLM, java, mySQL </li>
         <li>🤔 &nbsp; Interested in AI projects and automation</li>
        </ul>
        <p align="center">
@@ -19,7 +21,7 @@
   </tr>
   <tr>
    <td>
-     <h2> 🛠 &nbsp;Some LLM projects</h2>
+     <h2> 🛠 &nbsp;Some projects</h2>
      <a href="https://github.com/davidosoriot/langchain-llm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidosoriot&repo=langchain-llm&theme=great-gatsby" />
      </a>
