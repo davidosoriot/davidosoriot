@@ -33,7 +33,7 @@
     <div align="center">
       <h2><b>How to Reach Me</b></h2>
       <br>
-      <p>In the search of create something important 
+      <p>In the search of creating something important 
         <br>
       </p>
       <br>
